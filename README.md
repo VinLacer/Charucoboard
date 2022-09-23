@@ -14,7 +14,7 @@ $ git clone https://github.com/VinLacer/Charucoboard
 
 
 ## Images
-Separete your imagens into a folder, then change the imgs_path.
+Separate your imagens into a folder, then change the imgs_path.
 
 ```
 imgs_path = base_path / "your_folder_name"
