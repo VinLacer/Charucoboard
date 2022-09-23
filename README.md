@@ -40,5 +40,7 @@ Also, you need to choose the dictionary you want to use according to your prefer
 
 <img src = "https://user-images.githubusercontent.com/71742380/192060777-91845008-93f7-49fb-ae99-96ce89b624a4.png">
 
+The result varies depending on the image quality. 
+
 
 See the Jupyter Notebook for previews.
