@@ -5,7 +5,7 @@ To run with your images follow the next steps:
 
 ## Settings 
 
-First of all, create a folder named "CharucoBoard" for example. Then into that folder type the following commands in terminal:
+First of all, type the following commands in terminal:
 ```
 $ git clone https://github.com/VinLacer/Charucoboard
 ```
