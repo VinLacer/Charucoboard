@@ -33,6 +33,12 @@ m, n = 3, 5
 ```
 Also, you need to choose the dictionary you want to use according to your preferences and images. You can see the dictionaries in the documentation of the Charuco or in the [Documentation](https://docs.opencv.org/3.4/d9/d6a/group__aruco.html#ggac84398a9ed9dd01306592dd616c2c975a6df6c3ad38ac44ea1546ef4f4841f310).
 
+## Before script
+<img src = "https://user-images.githubusercontent.com/71742380/192060555-f05a3ff6-f4c3-4e0e-80bd-94d248b784d2.png">
+
+## After script
+
+<img src = "https://user-images.githubusercontent.com/71742380/192060777-91845008-93f7-49fb-ae99-96ce89b624a4.png">
 
 
 See the Jupyter Notebook for previews.
